@@ -1,0 +1,72 @@
+td {
+    width: 80px;
+    height: 80px;
+}
+#pole {
+    margin-top: -872px;
+    margin-left: 480px;
+    border-spacing: 18px;
+}
+button {
+    background-color: rgba(28,28,28,0);
+    border: medium none;
+    width: 80px;
+    height: 70px;
+
+}
+div img {
+    width: 80px;
+    height: 70px;
+}
+#choose {
+    margin-top: -600px;
+    margin-left: 280px;
+    border-spacing: 18px;
+}
+.Thistime {
+    margin-top: -15px;
+    margin-left: 35px;
+    color: white;
+}
+#ready {
+    margin-top: -300px;
+    margin-left: 1380px;
+    border-spacing: 18px;
+}
+.Score {
+    margin-left: 35px;
+    color: white;
+}
+.sell {
+    margin-top: -200px;
+    margin-left: 1500px;
+}
+#milk {
+    background-color: rgb(178, 238, 178);
+    width: 70px;
+    height: 50px;
+}
+#egg {
+    background-color: rgb(178, 238, 178);
+    margin-top: 50px;
+    width: 70px;
+    height: 50px;
+}
+#sum {
+    color: white;
+    font-size: 250%;
+    margin-top: -400px;
+    margin-left: 1400px;
+}
+#rule {
+    color: white;
+    width: 250px;
+    margin-top: -165px;
+    margin-left: 20px;
+}
+h2 {
+    text-align: center;
+}
+p {
+    text-align: center;
+}
